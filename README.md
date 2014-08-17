@@ -1,4 +1,4 @@
-DTC
+DTC (C API)
 ===
 
 Data and Trading Communications Protocol
